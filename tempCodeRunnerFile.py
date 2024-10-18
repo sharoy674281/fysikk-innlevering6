@@ -1,0 +1,1 @@
+Plot av strålingen
